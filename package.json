@@ -1,0 +1,22 @@
+{
+  "name": "read-me-gen",
+  "version": "1.0.0",
+  "description": "# Description   ## This is a read me generator. You are able to use this in your local terminal to generate your own read me for your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iyanez2314/Read-me-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iyanez2314/Read-me-gen/issues"
+  },
+  "homepage": "https://github.com/iyanez2314/Read-me-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
